@@ -34,9 +34,9 @@
               "Title": "Jogo.cs",
               "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\Aula\\Alura\\ProjetoAdvinhacao\\ProjetoAdvinhacao\\Jogo.cs",
               "RelativeDocumentMoniker": "ProjetoAdvinhacao\\Jogo.cs",
-              "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\Aula\\Alura\\ProjetoAdvinhacao\\ProjetoAdvinhacao\\Jogo.cs*",
-              "RelativeToolTip": "ProjetoAdvinhacao\\Jogo.cs*",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwCwAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\Aula\\Alura\\ProjetoAdvinhacao\\ProjetoAdvinhacao\\Jogo.cs",
+              "RelativeToolTip": "ProjetoAdvinhacao\\Jogo.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T17:20:59.659Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "ProjetoAdvinhacao\\Algoritimo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T17:10:03.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T17:10:03.506Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "ProjetoAdvinhacao\\Jogador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T17:06:36.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T17:06:36.653Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "ProjetoAdvinhacao\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T15:13:58.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T15:13:58.132Z"
             }
           ]
         }

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Programa\u00E7\u00E3o\\C#\\Aula\\Alura\\ProjetoAdvinhacao\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6E25639-E7BD-4BF6-9821-7BEF32F09417}|ProjetoAdvinhacao\\ProjetoAdvinhacao.csproj|c:\\programa\u00E7\u00E3o\\c#\\aula\\alura\\projetoadvinhacao\\projetoadvinhacao\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E25639-E7BD-4BF6-9821-7BEF32F09417}|ProjetoAdvinhacao\\ProjetoAdvinhacao.csproj|solutionrelative:projetoadvinhacao\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6E25639-E7BD-4BF6-9821-7BEF32F09417}|ProjetoAdvinhacao\\ProjetoAdvinhacao.csproj|c:\\programa\u00E7\u00E3o\\c#\\aula\\alura\\projetoadvinhacao\\projetoadvinhacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6E25639-E7BD-4BF6-9821-7BEF32F09417}|ProjetoAdvinhacao\\ProjetoAdvinhacao.csproj|solutionrelative:projetoadvinhacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C6E25639-E7BD-4BF6-9821-7BEF32F09417}|ProjetoAdvinhacao\\ProjetoAdvinhacao.csproj|c:\\programa\u00E7\u00E3o\\c#\\aula\\alura\\projetoadvinhacao\\projetoadvinhacao\\algoritimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6E25639-E7BD-4BF6-9821-7BEF32F09417}|ProjetoAdvinhacao\\ProjetoAdvinhacao.csproj|solutionrelative:projetoadvinhacao\\algoritimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6E25639-E7BD-4BF6-9821-7BEF32F09417}|ProjetoAdvinhacao\\ProjetoAdvinhacao.csproj|c:\\programa\u00E7\u00E3o\\c#\\aula\\alura\\projetoadvinhacao\\projetoadvinhacao\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6E25639-E7BD-4BF6-9821-7BEF32F09417}|ProjetoAdvinhacao\\ProjetoAdvinhacao.csproj|solutionrelative:projetoadvinhacao\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,29 +26,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 165,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Jogo.cs",
               "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\Aula\\Alura\\ProjetoAdvinhacao\\ProjetoAdvinhacao\\Jogo.cs",
               "RelativeDocumentMoniker": "ProjetoAdvinhacao\\Jogo.cs",
               "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\Aula\\Alura\\ProjetoAdvinhacao\\ProjetoAdvinhacao\\Jogo.cs*",
               "RelativeToolTip": "ProjetoAdvinhacao\\Jogo.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T17:20:59.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Algoritimo.cs",
               "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\Aula\\Alura\\ProjetoAdvinhacao\\ProjetoAdvinhacao\\Algoritimo.cs",
               "RelativeDocumentMoniker": "ProjetoAdvinhacao\\Algoritimo.cs",
-              "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\Aula\\Alura\\ProjetoAdvinhacao\\ProjetoAdvinhacao\\Algoritimo.cs*",
-              "RelativeToolTip": "ProjetoAdvinhacao\\Algoritimo.cs*",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\Aula\\Alura\\ProjetoAdvinhacao\\ProjetoAdvinhacao\\Algoritimo.cs",
+              "RelativeToolTip": "ProjetoAdvinhacao\\Algoritimo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T17:10:03.506Z",
@@ -56,12 +56,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Jogador.cs",
               "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\Aula\\Alura\\ProjetoAdvinhacao\\ProjetoAdvinhacao\\Jogador.cs",
               "RelativeDocumentMoniker": "ProjetoAdvinhacao\\Jogador.cs",
-              "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\Aula\\Alura\\ProjetoAdvinhacao\\ProjetoAdvinhacao\\Jogador.cs*",
-              "RelativeToolTip": "ProjetoAdvinhacao\\Jogador.cs*",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\Aula\\Alura\\ProjetoAdvinhacao\\ProjetoAdvinhacao\\Jogador.cs",
+              "RelativeToolTip": "ProjetoAdvinhacao\\Jogador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T17:06:36.653Z",
@@ -69,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\Aula\\Alura\\ProjetoAdvinhacao\\ProjetoAdvinhacao\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoAdvinhacao\\Program.cs",
-              "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\Aula\\Alura\\ProjetoAdvinhacao\\ProjetoAdvinhacao\\Program.cs*",
-              "RelativeToolTip": "ProjetoAdvinhacao\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\Aula\\Alura\\ProjetoAdvinhacao\\ProjetoAdvinhacao\\Program.cs",
+              "RelativeToolTip": "ProjetoAdvinhacao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T15:13:58.132Z",
               "EditorCaption": ""

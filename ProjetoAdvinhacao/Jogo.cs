@@ -42,7 +42,19 @@ public class Jogo
             }else
             {
                 Console.WriteLine($"Você venceu o jogo e acertou o número em apenas {i} tentativas");
-
+                Console.WriteLine("Digite 1 para jogar novamente ou qualquer outra tecla para sair!");
+                int JogarNovamente = Convert.ToInt32(Console.ReadLine());
+                if (JogarNovamente == 1)
+                {
+                    Console.Clear();
+                    Console.WriteLine("Vamos jogar denovo então :)");
+                    CertoErrado();
+                }
+                else
+                {
+                    Console.WriteLine("Tchau Tchau :(");
+                    break;
+                }
             }
 
         }while (valorAleatorio != valorDigitado);
