@@ -1,0 +1,14 @@
+C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\obj\Debug\net8.0\ProjetoAdvinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\obj\Debug\net8.0\ProjetoAdvinhacao.AssemblyInfoInputs.cache
+C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\obj\Debug\net8.0\ProjetoAdvinhacao.AssemblyInfo.cs
+C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\obj\Debug\net8.0\ProjetoAdvinhacao.csproj.CoreCompileInputs.cache
+C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\bin\Debug\net8.0\ProjetoAdvinhacao.exe
+C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\bin\Debug\net8.0\ProjetoAdvinhacao.deps.json
+C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\bin\Debug\net8.0\ProjetoAdvinhacao.runtimeconfig.json
+C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\bin\Debug\net8.0\ProjetoAdvinhacao.dll
+C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\bin\Debug\net8.0\ProjetoAdvinhacao.pdb
+C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\obj\Debug\net8.0\ProjetoAdvinhacao.dll
+C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\obj\Debug\net8.0\refint\ProjetoAdvinhacao.dll
+C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\obj\Debug\net8.0\ProjetoAdvinhacao.pdb
+C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\obj\Debug\net8.0\ProjetoAdvinhacao.genruntimeconfig.cache
+C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\obj\Debug\net8.0\ref\ProjetoAdvinhacao.dll
