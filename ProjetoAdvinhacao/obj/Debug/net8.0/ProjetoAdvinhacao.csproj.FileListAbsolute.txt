@@ -12,3 +12,4 @@ C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\obj\Debug\net
 C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\obj\Debug\net8.0\ProjetoAdvinhacao.pdb
 C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\obj\Debug\net8.0\ProjetoAdvinhacao.genruntimeconfig.cache
 C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\obj\Debug\net8.0\ref\ProjetoAdvinhacao.dll
+C:\Programação\C#\Aula\Alura\ProjetoAdvinhacao\ProjetoAdvinhacao\obj\Debug\net8.0\ProjetoAdvinhacao.sourcelink.json

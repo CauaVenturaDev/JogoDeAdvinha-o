@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoAdvinhacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8486689cbe688902d76e5dd304d0fb42cd7b67f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoAdvinhacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoAdvinhacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

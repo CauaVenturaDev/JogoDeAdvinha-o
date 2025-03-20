@@ -2,10 +2,11 @@
 
 public class Jogo
 {
-    int i = 1;
+
 
     public void CertoErrado()
     {
+        int i = 1;
         Algoritimo algoritimo = new();
         int valorAleatorio = algoritimo.Randomizer();
         Console.WriteLine($"Digite a sua {i} tentativa");
@@ -43,8 +44,8 @@ public class Jogo
             {
                 Console.WriteLine($"Você venceu o jogo e acertou o número em apenas {i} tentativas");
                 Console.WriteLine("Digite 1 para jogar novamente ou qualquer outra tecla para sair!");
-                int JogarNovamente = Convert.ToInt32(Console.ReadLine());
-                if (JogarNovamente == 1)
+                string JogarNovamente = Console.ReadLine();
+                if (JogarNovamente == "1")
                 {
                     Console.Clear();
                     Console.WriteLine("Vamos jogar denovo então :)");
@@ -55,6 +56,7 @@ public class Jogo
                     Console.WriteLine("Tchau Tchau :(");
                     break;
                 }
+
             }
 
         }while (valorAleatorio != valorDigitado);
